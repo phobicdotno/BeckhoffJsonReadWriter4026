@@ -1,4 +1,4 @@
-$libraryFileName = "BeckhoffJsonReadWriter.library"
+$libraryFileName = "BeckhoffJsonReadWriter4026.library"
 
 # Locate the library file
 $toolsDir = Split-Path -Parent $MyInvocation.MyCommand.Definition

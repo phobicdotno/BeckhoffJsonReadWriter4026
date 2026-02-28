@@ -1,4 +1,4 @@
-$libraryName = "BeckhoffJsonReadWriter"
+$libraryName = "BeckhoffJsonReadWriter4026"
 $libraryVersion = "1.0.0.0"
 $libraryVendor = "fbarresi"
 

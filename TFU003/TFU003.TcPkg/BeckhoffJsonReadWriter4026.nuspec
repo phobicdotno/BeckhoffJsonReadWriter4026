@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>BeckhoffJsonReadWriter</id>
+    <id>BeckhoffJsonReadWriter4026</id>
     <version>1.0.0</version>
     <title>Beckhoff Json Read Writer</title>
     <authors>Federico Barresi</authors>
-    <projectUrl>https://github.com/phobicdotno/BeckhoffJsonReadWriter4026</projectUrl>
+    <projectUrl>https://github.com/phobicdotno/BeckhoffJsonReadWriter40264026</projectUrl>
     <copyright>(c) Federico Barresi</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>CategoryPLC&#160;TwinCAT&#160;JSON&#160;AllowMultipleVersions</tags>
@@ -17,6 +17,6 @@
 
   <files>
     <file src="tools\**" target="tools" />
-    <file src="BeckhoffJsonReadWriter.library" target="tools\BeckhoffJsonReadWriter.library" />
+    <file src="BeckhoffJsonReadWriter4026.library" target="tools\BeckhoffJsonReadWriter4026.library" />
   </files>
 </package>
