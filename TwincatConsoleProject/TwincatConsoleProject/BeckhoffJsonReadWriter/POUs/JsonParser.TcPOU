@@ -26,8 +26,8 @@ END_VAR
       <ST><![CDATA[startProcess();
 getLocalAmsNetId();
 startProcess.NETID := getLocalAmsNetId.AddrString;
-startProcess.PATHSTR := 'C:\TwinCAT\Functions\Unofficial\JsonReadWriter\TFU003.exe';
-startProcess.DIRNAME := 'C:\TwinCAT\Functions\Unofficial\JsonReadWriter\';
+startProcess.PATHSTR := 'C:\ProgramData\Beckhoff\Functions\Unofficial\JsonReadWriter4026\TFU003_4026.exe';
+startProcess.DIRNAME := 'C:\ProgramData\Beckhoff\Functions\Unofficial\JsonReadWriter4026\';
 formatter(sFormat:='"%s" "%s" "%s"', arg1:=f_string(File), arg2:=f_string(ParseMethod), arg3:=f_string(Content));
 IF port <> 0 THEN
 	startProcess.COMNDLINE := CONCAT(CONCAT('-AdsPort ',CONCAT(UINT_TO_STRING(Port),' ')),formatter.sOut);

@@ -6,7 +6,7 @@
     <ProjectGuid>{725a8d92-dfe4-4ab0-972b-8c17f5efd11c}</ProjectGuid>
     <SubObjectsSortedByName>True</SubObjectsSortedByName>
     <Name>ExecuteProgram</Name>
-    <ProgramVersion>3.1.4022.3</ProgramVersion>
+    <ProgramVersion>3.1.4026.20</ProgramVersion>
     <Application>{e3a7f4bb-5a6f-4ac6-b44c-7244872704d8}</Application>
     <TypeSystem>{a9862f10-1133-462e-862c-91019dabe321}</TypeSystem>
     <Implicit_Task_Info>{4103ec90-eecd-4529-b56b-2c4e46dfffe0}</Implicit_Task_Info>

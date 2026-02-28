@@ -36,13 +36,13 @@
   </Product>
 
   <Fragment>
-    <SetDirectory Id="TWINCAT" Value="[WindowsVolume]TwinCAT"/>
+    <SetDirectory Id="BECKHOFF" Value="[CommonAppDataFolder]Beckhoff"/>
 
     <Directory Id="TARGETDIR" Name="SourceDir">
-          <Directory Id="TWINCAT" >
+          <Directory Id="BECKHOFF" >
           <Directory Id="functions" Name="Functions" >
           <Directory Id="unofficial" Name="Unofficial" >
-            <Directory Id="INSTALLFOLDER" Name="JsonReadWriter" />
+            <Directory Id="INSTALLFOLDER" Name="JsonReadWriter4026" />
           </Directory>
           </Directory>
           </Directory>
@@ -55,7 +55,7 @@
       <!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
       <Component Id="ProductComponent" Guid="8227A017-5694-4FC0-97E4-31ED11AF3AA1">
         <!-- TODO: Insert files, registry keys, and other resources here. -->
-        <File Id="exe" Checksum="yes" Source="..\TFU003\bin\Release\net462\TFU003.exe" />
+        <File Id="exe" Checksum="yes" Source="..\TFU003\bin\Release\net462\TFU003_4026.exe" />
       </Component>
     </ComponentGroup>
   </Fragment>

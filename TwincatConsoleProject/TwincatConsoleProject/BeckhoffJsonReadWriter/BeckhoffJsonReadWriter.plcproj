@@ -6,7 +6,7 @@
     <ProjectGuid>{790937f3-60d2-411c-b3cd-e5b87f556fd0}</ProjectGuid>
     <SubObjectsSortedByName>True</SubObjectsSortedByName>
     <Name>BeckhoffJsonReadWriter</Name>
-    <ProgramVersion>3.1.4022.3</ProgramVersion>
+    <ProgramVersion>3.1.4026.20</ProgramVersion>
     <Application>{6e1da75a-24bf-4bfc-b07d-6d0a69c75e64}</Application>
     <TypeSystem>{ac66deb4-b05c-4060-822b-6a348a1568bd}</TypeSystem>
     <Implicit_Task_Info>{975862f0-e85c-4b61-b6f1-03e748441701}</Implicit_Task_Info>
