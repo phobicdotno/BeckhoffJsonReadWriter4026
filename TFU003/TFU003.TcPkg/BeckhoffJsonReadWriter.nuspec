@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>BeckhoffJsonReadWriter</id>
+    <version>1.0.0</version>
+    <title>Beckhoff Json Read Writer</title>
+    <authors>Federico Barresi</authors>
+    <projectUrl>https://github.com/phobicdotno/BeckhoffJsonReadWriter4026</projectUrl>
+    <copyright>(c) Federico Barresi</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>CategoryPLC&#160;TwinCAT&#160;JSON&#160;AllowMultipleVersions</tags>
+    <description>TwinCAT PLC library for reading and writing JSON files via ADS. Provides a JsonParser function block that launches an external process to serialize/deserialize JSON data between PLC variables and files.</description>
+    <releaseNotes>Updated for TwinCAT 4026</releaseNotes>
+    <dependencies>
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="tools\**" target="tools" />
+    <file src="BeckhoffJsonReadWriter.library" target="tools\BeckhoffJsonReadWriter.library" />
+  </files>
+</package>
