@@ -1,0 +1,10 @@
+version: 1.0.{build}
+
+image: Visual Studio 2022
+
+build_script:
+  - dotnet build TFU003\TFU003\TFU003.csproj -c Release
+
+artifacts:
+  - path: TFU003\TFU003\bin\Release\net462\TFU003_4026.exe
+    name: TFU003_4026
