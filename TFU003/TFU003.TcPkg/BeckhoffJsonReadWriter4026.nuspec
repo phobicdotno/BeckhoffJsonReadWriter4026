@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <title>Beckhoff Json Read Writer</title>
     <authors>Federico Barresi</authors>
-    <projectUrl>https://github.com/phobicdotno/BeckhoffJsonReadWriter40264026</projectUrl>
+    <projectUrl>https://github.com/phobicdotno/BeckhoffJsonReadWriter4026</projectUrl>
     <copyright>(c) Federico Barresi</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>CategoryPLC&#160;TwinCAT&#160;JSON&#160;AllowMultipleVersions</tags>
