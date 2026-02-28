@@ -8,3 +8,13 @@ build_script:
 artifacts:
   - path: TFU003\TFU003\bin\Release\net462\TFU003_4026.exe
     name: TFU003_4026
+
+deploy:
+  - provider: GitHub
+    auth_token:
+      secure: v2.v5opvtjnfba86eq2bgw4
+    artifact: TFU003_4026
+    draft: false
+    prerelease: false
+    on:
+      APPVEYOR_REPO_TAG: true
