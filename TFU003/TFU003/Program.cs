@@ -34,7 +34,6 @@ namespace TFU003
         private static void CreateLogger()
         {
             log4net.Config.XmlConfigurator.Configure(new FileInfo("log.config"));
-            LogManager.CreateRepository(Constants.LoggingRepositoryName);
         }
         public async Task OnExecute()
         {
