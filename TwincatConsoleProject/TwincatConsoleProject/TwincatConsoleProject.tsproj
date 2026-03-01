@@ -19,9 +19,9 @@
 					</TaskPouOids>
 				</Instance>
 			</Project>
-			<Project GUID="{790937F3-60D2-411C-B3CD-E5B87F556FD0}" Name="BeckhoffJsonReadWriter" PrjFilePath="BeckhoffJsonReadWriter\BeckhoffJsonReadWriter.plcproj" TmcFilePath="BeckhoffJsonReadWriter\BeckhoffJsonReadWriter.tmc" ReloadTmc="true" AmsPort="852" FileArchiveSettings="#x000e">
+			<Project GUID="{790937F3-60D2-411C-B3CD-E5B87F556FD0}" Name="BeckhoffJsonReadWriter4026" PrjFilePath="BeckhoffJsonReadWriter4026\BeckhoffJsonReadWriter4026.plcproj" TmcFilePath="BeckhoffJsonReadWriter4026\BeckhoffJsonReadWriter4026.tmc" ReloadTmc="true" AmsPort="852" FileArchiveSettings="#x000e">
 				<Instance Id="#x08502040" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="BeckhoffHttpClient\BeckhoffHttpClient.tmc">
-					<Name>BeckhoffJsonReadWriter Instance</Name>
+					<Name>BeckhoffJsonReadWriter4026 Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 				</Instance>
 			</Project>

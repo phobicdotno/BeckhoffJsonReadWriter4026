@@ -49,8 +49,8 @@
     </PlaceholderReference>
   </ItemGroup>
   <ItemGroup>
-    <LibraryReference Include="BeckhoffJsonReadWriter,1.0,fbarresi">
-      <Namespace>BeckhoffJsonReadWriter</Namespace>
+    <LibraryReference Include="BeckhoffJsonReadWriter4026,1.0,fbarresi">
+      <Namespace>BeckhoffJsonReadWriter4026</Namespace>
     </LibraryReference>
   </ItemGroup>
   <ItemGroup>

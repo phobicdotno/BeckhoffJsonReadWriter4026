@@ -39,9 +39,9 @@
     <Folder Include="POUs" />
   </ItemGroup>
   <ItemGroup>
-    <PlaceholderReference Include="BeckhoffJsonReadWriter">
-      <DefaultResolution>BeckhoffJsonReadWriter, * (fbarresi)</DefaultResolution>
-      <Namespace>BeckhoffJsonReadWriter</Namespace>
+    <PlaceholderReference Include="BeckhoffJsonReadWriter4026">
+      <DefaultResolution>BeckhoffJsonReadWriter4026, * (fbarresi)</DefaultResolution>
+      <Namespace>BeckhoffJsonReadWriter4026</Namespace>
     </PlaceholderReference>
     <PlaceholderReference Include="Tc2_Standard">
       <DefaultResolution>Tc2_Standard, * (Beckhoff Automation GmbH)</DefaultResolution>

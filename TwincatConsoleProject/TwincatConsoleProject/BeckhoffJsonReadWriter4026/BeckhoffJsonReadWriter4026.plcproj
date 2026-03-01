@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{790937f3-60d2-411c-b3cd-e5b87f556fd0}</ProjectGuid>
     <SubObjectsSortedByName>True</SubObjectsSortedByName>
-    <Name>BeckhoffJsonReadWriter</Name>
+    <Name>BeckhoffJsonReadWriter4026</Name>
     <ProgramVersion>3.1.4026.20</ProgramVersion>
     <Application>{6e1da75a-24bf-4bfc-b07d-6d0a69c75e64}</Application>
     <TypeSystem>{ac66deb4-b05c-4060-822b-6a348a1568bd}</TypeSystem>
@@ -16,7 +16,7 @@
     <CombineIds>false</CombineIds>
     <Company>fbarresi</Company>
     <Released>true</Released>
-    <Title>BeckhoffJsonReadWriter</Title>
+    <Title>BeckhoffJsonReadWriter4026</Title>
     <ProjectVersion>1.0</ProjectVersion>
     <Author>Federico Barresi</Author>
   </PropertyGroup>
@@ -65,7 +65,7 @@
     </PlaceholderReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="BeckhoffJsonReadWriter.tmc">
+    <None Include="BeckhoffJsonReadWriter4026.tmc">
       <SubType>Content</SubType>
     </None>
   </ItemGroup>
