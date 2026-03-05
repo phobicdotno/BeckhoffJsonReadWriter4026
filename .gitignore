@@ -339,3 +339,4 @@ _Config/
 *.Reftmc
 *.~u
 *.tclrs
+.claude/settings.local.json
